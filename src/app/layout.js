@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Appwrite + Next.js",
+  title: "Happy Couples",
   description: "Appwrite starter for Next.js",
 };
 
